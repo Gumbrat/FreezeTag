@@ -15,3 +15,4 @@ NOTE: Turn plugin into a phar and put the phar in the plugins folder.
 
 # ENJOY!
 # PLEASE READ LICENCE!
+# FOLLOW ME ON TWITTER @cavin_miana
